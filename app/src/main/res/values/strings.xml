@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="loading_title">Loading...</string>
+    <string name="default_error_message">Unknown error</string>
+    <string name="no_inet_message">No Internet connection.</string>
+    <string name="first_name_hint">Enter First Name</string>
+    <string name="last_name_hint">Enter Last Name</string>
+    <string name="phone_hint">Enter Phone</string>
+    <string name="email_hint">Enter Email</string>
+    <string name="notes_hint">Enter Notes</string>
+    <string name="permision_denied_msg">Permission denied.</string>
+</resources>
